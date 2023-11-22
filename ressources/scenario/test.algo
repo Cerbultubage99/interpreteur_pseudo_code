@@ -1,0 +1,49 @@
+ALGORTIHME NomAlgo
+constante:
+	UNE_CONSTANTE <-- 12.5
+variable:
+	w	: réel
+	X,y : entier
+	b	: chaine de caractères
+	z	: booléen
+	a	: caractères
+	o	: tableau [10] de chaine de caractères
+DEBUT
+	X <-- y <-- 5 × 5
+	y <-- 0.7
+	a <-- 'a'
+	b <-- "weshdene"
+
+	o[0] <-- o[2] <-- "wesj"
+
+	ecrire ( "etape 0" )
+
+	lire ( o[2],w )
+
+	si X = 5 alors
+
+		ecrire ( " ecrire 1" )
+
+		si y = 2 alors
+			ecrire ("etape 2")
+		fsi
+
+		ecrire ( "etape 3" )
+
+		si y = 2 alors
+			ecrire ("etape 4")
+		sinon
+			ecrire ("etape 5")
+		fsi
+	fsi
+
+	si y = 7 alors
+		ecrire ("etape 6")
+	sinon
+		ecrire ("etape 7")
+	fsi
+
+
+	ecrire ("etape 8")
+
+FIN

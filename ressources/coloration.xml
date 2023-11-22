@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coloration>
+    <defaut foreground="blanc" background="noir" gras="false"/>
+    <ligne_surligner foreground="noir" background="mauve" gras="false"/>
+
+
+    <variante foreground="bleu" gras = "false">
+        <mot-clef>ecrire</mot-clef>
+        <mot-clef>lire</mot-clef>
+    </variante>
+
+    <variante foreground="cyan" gras = "false">
+        <mot-clef>si</mot-clef>
+        <mot-clef>alors</mot-clef>
+        <mot-clef>sinon</mot-clef>
+        <mot-clef>fsi</mot-clef>
+    </variante>
+
+    <variante foreground="vert" gras = "false">
+        <mot-clef>fin</mot-clef>
+        <mot-clef>debut</mot-clef>
+        <mot-clef>ALGORTIHME</mot-clef>
+        <mot-clef>constante</mot-clef>
+        <mot-clef>variable</mot-clef>
+    </variante>
+
+</coloration>

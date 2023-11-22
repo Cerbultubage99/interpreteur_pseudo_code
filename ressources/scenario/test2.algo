@@ -1,0 +1,61 @@
+ALGORTIHME NomAlgo
+constante:
+    UNE_CONSTANTE <-- 12.5
+variable:
+    w    : réel
+    X,y    : entier
+    b    : chaine de caractères
+    z    : booléen
+    a    : caractères
+    o    : tableau [10] de chaine de caractères
+DEBUT
+    X <-- y <-- 2+5
+    y <-- 0.7
+    a <-- 'a'
+    b <-- "weshdene"
+    o[0] <-- o[2] <-- "wesj"
+
+    ecrire ( "etape 0" )
+
+    lire ( b,o[1] )
+
+    si X = 5 alors
+
+        b <-- enChaine(y)
+        b <-- "j'aime " © "plp"
+        b <-- "c'est " © "pas " © "faux"
+
+        si y = 72 alors
+            ecrire ("etape 2")
+        fsi
+
+        si y = 72 alors
+            si y = 80 alors
+                ecrire ("imposible")
+            sinon
+                ecrire ("etape 3")
+            fsi
+        fsi
+
+        si y > 72 alors
+            si y = 80 alors
+                ecrire ("imposible")
+            sinon
+                ecrire ("Tout aussi impossible")
+            fsi
+        sinon
+            ecrire ( "etape 4" )
+        fsi
+
+        ecrire ( "etape 5" )
+
+        si y < 2 alors
+            ecrire ("etape 6")
+        sinon
+            ecrire ("difficilement possible")
+        fsi
+    fsi
+
+    ecrire ("etape 8")
+
+FIN

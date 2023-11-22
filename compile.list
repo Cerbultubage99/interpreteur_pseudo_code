@@ -1,0 +1,20 @@
+-encoding utf-8
+
+./src/dydev/Metier.java
+
+./src/dydev/code/Interpreteur.java
+
+./src/dydev/code/affichage/Affichage.java
+./src/dydev/code/affichage/Couleurs.java
+
+./src/dydev/code/condition/GestionBoolean.java
+./src/dydev/code/condition/Conditionnelle.java
+
+./src/dydev/code/math/Calcul.java
+./src/dydev/code/math/DecompMath.java
+
+./src/dydev/code/variable/Variable.java
+
+./src/dydev/utilitaire/FileReader.java
+./src/dydev/utilitaire/MotClef.java
+./src/dydev/utilitaire/XmlReader.java

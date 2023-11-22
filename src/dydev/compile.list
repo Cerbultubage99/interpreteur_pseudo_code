@@ -1,0 +1,20 @@
+-encoding utf-8
+
+./Metier.java
+
+./code/Interpreteur.java
+
+./code/affichage/Affichage.java
+./code/affichage/Couleurs.java
+
+./code/condition/GestionBoolean.java
+./code/condition/Conditionnelle.java
+
+./code/math/Calcul.java
+./code/math/DecompMath.java
+
+./code/variable/Variable.java
+
+./utilitaire/FileReader.java
+./utilitaire/MotClef.java
+./utilitaire/XmlReader.java
